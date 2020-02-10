@@ -1,2 +1,2 @@
 # GPA-CGPA-Calculator
-C++ Program to calculate GPA of CGPA.
+C++ Program to calculate GPA & CGPA.
